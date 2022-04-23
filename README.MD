@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livro de receitas :cookie:
 
 - Lasanha
 - Farofa
+- Risoto
